@@ -13,7 +13,7 @@ body {
     height: 80vh;
     width: 100vw;
     background-color: white;
-    background-image: url('./images/background.png');
+    background-image: url('/images/background.png');
     background-repeat: no-repeat;
     background-position: 82%;
     background-size: contain;
@@ -46,7 +46,7 @@ letter-spacing: 4px;
 .social-media a {
 text-decoration: none;
 color: black;
-padding: 1rem 4rem;
+padding: 1rem 3rem;
 border: 1px solid black;
 border-radius: 8px;
 min-width: 8rem;
